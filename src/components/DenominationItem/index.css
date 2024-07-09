@@ -1,0 +1,13 @@
+.button {
+  background-color: #382f5a;
+  border-color: #585076;
+  border-style: solid;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  width: 150px;
+  height: 45px;
+  border-radius: 12px;
+  margin: 12px;
+  border-width: 4px;
+}
